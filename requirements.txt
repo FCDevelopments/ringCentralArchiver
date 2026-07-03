@@ -1,0 +1,4 @@
+ringcentral>=0.9
+box-sdk-gen>=1.5
+python-dotenv>=1.0
+requests>=2.31
