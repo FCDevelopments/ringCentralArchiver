@@ -1,0 +1,20 @@
+# Secrets & local config
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Auth & runtime state
+box_jwt_config.json
+state.json
+state.test.json
+output/
+temp/
+box_index_cache.json
+call_log_cache.json
