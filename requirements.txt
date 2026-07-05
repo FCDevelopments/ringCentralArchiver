@@ -1,4 +1,5 @@
-ringcentral>=0.9
-box-sdk-gen>=1.5
-python-dotenv>=1.0
-requests>=2.31
+# Pinned for reproducible installs. Bump deliberately after testing.
+ringcentral==0.9.0
+box-sdk-gen==1.14.0
+python-dotenv==1.0.1
+requests==2.32.3
